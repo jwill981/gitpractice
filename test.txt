@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 one  
 two
-ready
+ready?
 go!
+=======
+one
+two
+go
+>>>>>>> 430eb62812474c91907f1bda23cfec90077f0004
